@@ -20,7 +20,7 @@ The relationship between test cases and requirements is shown with the help of a
 
 Equivalence partitioning testing is a software testing technique that divides the application input test data into each partition at least once of equivalent data from which test cases can be derived. This testing method reduces the time required for software testing.
 
-**6. What are white box testing and list the types of white box testing?**
+**6. What are white box testing and list the types of white box testing?** -
 
 The white box testing technique involves the selection of test cases based on an analysis of the internal structure (Code coverage, branches coverage, paths coverage, condition coverage, etc.) of a component or system. It is also known as Code-Based testing or Structural testing. Different types of white box testing are
 1. Statement Coverage
